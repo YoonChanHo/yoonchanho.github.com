@@ -6,4 +6,4 @@ categories: blog
 
 [BOOTSTRAP][bootstrap]
 
-[bootstrap] : https://getbootstrap.com/
+[bootstrap]: https://getbootstrap.com/
